@@ -1,0 +1,25 @@
+.contenedor-general {
+    background-color: lightblue;
+    display:flex;
+    justify-content: space-around
+}
+
+.contenedor-titulos {
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.contenedor-titulos>h1 {
+    display:flex;
+    flex-wrap: wrap;
+    width:300px;
+    background-color:lightsteelblue;
+}
+
+.contenedor-imagenes {
+}
+
+.img-michi {
+    width: 300px
+}
+
